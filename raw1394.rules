@@ -1,0 +1,2 @@
+KERNEL=="raw1394", GROUP="video"
+
